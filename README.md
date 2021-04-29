@@ -17,15 +17,15 @@ already mirrored.
 
 ## Learning platforms
 
-* [ ] /rapid7/metasploit-payloads
-* [ ] /rapid7/metasploitable3
-* [ ] /rapid7/metasploit-concern
-* [ ] /rapid7/metasploit-erd
-* [ ] /rapid7/metasploit-model
-* [ ] /rapid7/metasploit-omnibus
-* [ ] /rapid7/metasploit-credential
-* [ ] /rapid7/metasploit_data_models
-* [ ] /rapid7/metasploit-framework
+* [x] /rapid7/metasploit-payloads
+* [x] /rapid7/metasploitable3
+* [x] /rapid7/metasploit-concern
+* [x] /rapid7/metasploit-erd
+* [x] /rapid7/metasploit-model
+* [x] /rapid7/metasploit-omnibus
+* [x] /rapid7/metasploit-credential
+* [x] /rapid7/metasploit_data_models
+* [x] /rapid7/metasploit-framework
 
 
 ## Toolkits
