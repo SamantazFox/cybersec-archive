@@ -32,6 +32,26 @@ already mirrored.
 
 * [ ] /cve-search/cve-search
 
+* [x] https://github.com/jonoberheide/ksymhunter
+* [x] https://github.com/jonoberheide/kstructhunter
+* [x] https://github.com/ngalongc/AutoLocalPrivilegeEscalation
+* [x] https://github.com/PenturaLabs/Linux_Exploit_Suggester
+* [x] https://github.com/jondonas/linux-exploit-suggester-2
+* [x] https://github.com/mzet-/linux-exploit-suggester
+* [x] https://github.com/spencerdodd/kernelpop
+* [x] https://github.com/vnik5287/kaslr_tsx_bypass
+* [x] https://github.com/IAIK/meltdown
+* [x] https://github.com/nforest/droidimg
+* [x] https://github.com/a13xp0p0v/kconfig-hardened-check
+* [x] https://github.com/PaoloMonti42/salt
+* [x] https://github.com/jollheef/out-of-tree
+* [x] https://github.com/elfmaster/kdress
+* [x] https://github.com/mephi42/ida-kallsyms
+* [x] https://github.com/IntelLabs/kAFL
+* [x] https://github.com/securesystemslab/agamotto
+* [x] https://github.com/duasynt/gdb_scripts
+* [x] https://github.com/evdenis/cvehound
+
 
 ## Exploits
 
