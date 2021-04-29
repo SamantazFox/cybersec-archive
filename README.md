@@ -16,8 +16,8 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 
 ## Exploits lists/databases
 
-* [ ] /ytisf/theZoo
-* [ ] /offensive-security/exploitdb
+* [x] /ytisf/theZoo
+* [x] /offensive-security/exploitdb
 
 
 ## Learning platforms
