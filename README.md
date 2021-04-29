@@ -9,6 +9,11 @@ already mirrored.
 
 ---
 
+**I'm trying to find a way with a way to make reproducible tar.gz archives from the
+cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
+
+---
+
 ## Exploits lists/databases
 
 * [ ] /ytisf/theZoo
