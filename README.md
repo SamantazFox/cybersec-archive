@@ -104,7 +104,6 @@ kernel CTF:
 ## Toolkits
 
 * [ ] /cve-search/cve-search
-
 * [x] https://github.com/jonoberheide/ksymhunter
 * [x] https://github.com/jonoberheide/kstructhunter
 * [x] https://github.com/ngalongc/AutoLocalPrivilegeEscalation
