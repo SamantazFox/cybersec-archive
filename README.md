@@ -16,7 +16,7 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 
 ## Exploits lists/databases/POCs
 
-* [x] /offensive-security/exploitdb
+* [x] [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb)
 * [ ] [sepehrdaddev/packetstorm-exploits](https://github.com/sepehrdaddev/packetstorm-exploits)
 * [ ] [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
 * [ ] [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)
@@ -26,19 +26,19 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 ## Learning platforms
 
 metasploit:
-* [x] /rapid7/metasploit-payloads
-* [x] /rapid7/metasploitable3
-* [x] /rapid7/metasploit-concern
-* [x] /rapid7/metasploit-erd
-* [x] /rapid7/metasploit-model
-* [x] /rapid7/metasploit-omnibus
-* [x] /rapid7/metasploit-credential
-* [x] /rapid7/metasploit_data_models
-* [x] /rapid7/metasploit-framework
+* [x] [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3)
+* [x] [rapid7/metasploit-concern](https://github.com/rapid7/metasploit-concern)
+* [x] [rapid7/metasploit-credential](https://github.com/rapid7/metasploit-credential)
+* [x] [rapid7/metasploit_data_models](https://github.com/rapid7/metasploit_data_models)
+* [x] [rapid7/metasploit-erd](https://github.com/rapid7/metasploit-erd)
+* [x] [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+* [x] [rapid7/metasploit-model](https://github.com/rapid7/metasploit-model)
+* [x] [rapid7/metasploit-omnibus](https://github.com/rapid7/metasploit-omnibus)
+* [x] [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads)
 
 kernel CTF:
-* [x] /smallkirby/kernelpwn
-* [x] /MaherAzzouzi/LinuxKernelExploitation
+* [x] [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
+* [x] [MaherAzzouzi/LinuxKernelExploitation](https://github.com/MaherAzzouzi/LinuxKernelExploitation)
 
 
 ## CVEs
@@ -99,11 +99,11 @@ kernel CTF:
 * [x] [Tlgyt/The-Collection](https://github.com/Tlgyt/The-Collection)
 * [x] [hxp2k6/Android-Malwares](https://github.com/hxp2k6/Android-Malwares)
 * [x] [bxlcity/malware](https://github.com/bxlcity/malware)
-* [x] /ytisf/theZoo
+* [x] [ytisf/theZoo](https://github.com/ytisf/theZoo)
 
 ## Toolkits
 
-* [ ] /cve-search/cve-search
+* [ ] [/cve-search/cve-search](https://github.com/cve-search/cve-search)
 * [x] https://github.com/jonoberheide/ksymhunter
 * [x] https://github.com/jonoberheide/kstructhunter
 * [x] https://github.com/ngalongc/AutoLocalPrivilegeEscalation
@@ -129,7 +129,7 @@ kernel CTF:
 
 ## Exploits
 
-* [ ] xairy/linux-kernel-exploitation
+* [ ] [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 * [ ] [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) (Windows Kernel Exploits)
 * [ ] [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) (Linux Kernel Exploits)
 * [ ] [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) (Windows Exploits)
