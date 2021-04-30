@@ -87,18 +87,18 @@ kernel CTF:
 
 ## Malware Collection
 
-* [ ] [RamadhanAmizudin/malware](https://github.com/RamadhanAmizudin/malware)
-* [ ] [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
-* [ ] [ashishb/android-malware](https://github.com/ashishb/android-malware)
-* [ ] [malwares/DangerousZone](https://github.com/malwares/DangerousZone)
-* [ ] [HynekPetrak/javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection)
-* [ ] [mstfknn/malware-sample-library](https://github.com/mstfknn/malware-sample-library)
-* [ ] [jstrosch/malware-samples](https://github.com/jstrosch/malware-samples)
-* [ ] [funtimes-ninja/malware](https://github.com/funtimes-ninja/malware)
-* [ ] [sk3ptre/AndroidMalware_2019](https://github.com/sk3ptre/AndroidMalware_2019)
-* [ ] [Tlgyt/The-Collection](https://github.com/Tlgyt/The-Collection)
-* [ ] [hxp2k6/Android-Malwares](https://github.com/hxp2k6/Android-Malwares)
-* [ ] [bxlcity/malware](https://github.com/bxlcity/malware)
+* [x] [RamadhanAmizudin/malware](https://github.com/RamadhanAmizudin/malware)
+* [x] [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
+* [x] [ashishb/android-malware](https://github.com/ashishb/android-malware)
+* [x] [malwares/DangerousZone](https://github.com/malwares/DangerousZone)
+* [x] [HynekPetrak/javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection)
+* [x] [mstfknn/malware-sample-library](https://github.com/mstfknn/malware-sample-library)
+* [x] [jstrosch/malware-samples](https://github.com/jstrosch/malware-samples)
+* [x] [funtimes-ninja/malware](https://github.com/funtimes-ninja/malware)
+* [x] [sk3ptre/AndroidMalware_2019](https://github.com/sk3ptre/AndroidMalware_2019)
+* [x] [Tlgyt/The-Collection](https://github.com/Tlgyt/The-Collection)
+* [x] [hxp2k6/Android-Malwares](https://github.com/hxp2k6/Android-Malwares)
+* [x] [bxlcity/malware](https://github.com/bxlcity/malware)
 * [x] /ytisf/theZoo
 
 ## Toolkits
