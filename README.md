@@ -16,7 +16,7 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 
 ## Exploits lists/databases/POCs
 
-* [ ] /offensive-security/exploitdb
+* [x] /offensive-security/exploitdb
 * [ ] [sepehrdaddev/packetstorm-exploits](https://github.com/sepehrdaddev/packetstorm-exploits)
 * [ ] [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
 * [ ] [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)
@@ -94,7 +94,7 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 * [ ] [Tlgyt/The-Collection](https://github.com/Tlgyt/The-Collection)
 * [ ] [hxp2k6/Android-Malwares](https://github.com/hxp2k6/Android-Malwares)
 * [ ] [bxlcity/malware](https://github.com/bxlcity/malware)
-* [ ] /ytisf/theZoo
+* [x] /ytisf/theZoo
 
 ## Toolkits
 
