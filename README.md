@@ -22,6 +22,7 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 
 ## Learning platforms
 
+metasploit:
 * [x] /rapid7/metasploit-payloads
 * [x] /rapid7/metasploitable3
 * [x] /rapid7/metasploit-concern
@@ -31,6 +32,10 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 * [x] /rapid7/metasploit-credential
 * [x] /rapid7/metasploit_data_models
 * [x] /rapid7/metasploit-framework
+
+kernel CTF:
+* [x] /smallkirby/kernelpwn
+* [x] /MaherAzzouzi/LinuxKernelExploitation
 
 
 ## Toolkits
