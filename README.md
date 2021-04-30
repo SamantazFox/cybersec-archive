@@ -59,16 +59,16 @@ kernel CTF:
 
 ## Knowledge Collection
 
-* [ ] [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)
-* [ ] [offensive-security/exploitdb-papers](https://github.com/offensive-security/exploitdb-papers)
-* [ ] [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
-* [ ] [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)
-* [ ] [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
-* [ ] [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)
-* [ ] [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
-* [ ] [hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
-* [ ] [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
-* [ ] [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
+* [x] [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)
+* [x] [offensive-security/exploitdb-papers](https://github.com/offensive-security/exploitdb-papers)
+* [x] [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
+* [x] [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)
+* [x] [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
+* [x] [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)
+* [x] [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+* [x] [hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
+* [x] [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+* [x] [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
 
 
 ## Vulnerable Labs
