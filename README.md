@@ -46,11 +46,11 @@ other:
 
 ## CVEs
 
-* [ ] [pyupio/safety-db](https://github.com/pyupio/safety-db) (Python)
-* [ ] [nodejs/security-wg](https://github.com/nodejs/security-wg) (Nodejs)
-* [ ] [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) (Ruby)
-* [ ] [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (PHP)
-* [ ] [RustSec/advisory-db](https://github.com/RustSec/advisory-db) (Rust)
+* [x] [pyupio/safety-db](https://github.com/pyupio/safety-db) (Python)
+* [x] [nodejs/security-wg](https://github.com/nodejs/security-wg) (Nodejs)
+* [x] [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) (Ruby)
+* [x] [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) (PHP)
+* [x] [RustSec/advisory-db](https://github.com/RustSec/advisory-db) (Rust)
 
 
 ## Vulnerability Scanners
@@ -133,9 +133,9 @@ other:
 
 ## Exploits
 
-* [ ] [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
-* [ ] [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) (Windows Kernel Exploits)
-* [ ] [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) (Linux Kernel Exploits)
-* [ ] [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) (Windows Exploits)
-* [ ] [offensive-security/exploitdb-bin-sploits](https://github.com/offensive-security/exploitdb-bin-sploits) (Binary Exploits)
-* [ ] [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) (Xiaomi Routers Exploits)
+* [x] [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
+* [x] [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) (Windows Kernel Exploits)
+* [x] [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) (Linux Kernel Exploits)
+* [x] [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) (Windows Exploits)
+* [x] [offensive-security/exploitdb-bin-sploits](https://github.com/offensive-security/exploitdb-bin-sploits) (Binary Exploits)
+* [x] [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) (Xiaomi Routers Exploits)
