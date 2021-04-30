@@ -23,7 +23,7 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 * [ ] [aquasecurity/vuln-list](https://github.com/aquasecurity/vuln-list)
 * [ ] [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
-## Learning platforms
+## Learning platforms/tools
 
 metasploit:
 * [x] [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3)
@@ -39,6 +39,9 @@ metasploit:
 kernel CTF:
 * [x] [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
 * [x] [MaherAzzouzi/LinuxKernelExploitation](https://github.com/MaherAzzouzi/LinuxKernelExploitation)
+
+other:
+* [ ] [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
 
 
 ## CVEs
@@ -69,6 +72,7 @@ kernel CTF:
 * [x] [hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
 * [x] [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 * [x] [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
+* [ ] [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 
 
 ## Vulnerable Labs
@@ -134,3 +138,4 @@ kernel CTF:
 * [ ] [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) (Linux Kernel Exploits)
 * [ ] [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) (Windows Exploits)
 * [ ] [offensive-security/exploitdb-bin-sploits](https://github.com/offensive-security/exploitdb-bin-sploits) (Binary Exploits)
+* [ ] [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) (Xiaomi Routers Exploits)
