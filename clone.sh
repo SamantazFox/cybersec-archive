@@ -55,11 +55,8 @@ echo
 if ! [ -d $user/$repo ]; then echo ${RED}"Error: cloning failed"${RESET}; exit 2; fi
 
 
-# Prepare repo for being server over HTTP
+# Add description and prepare for tarball archive
 cd $user/$repo
-
-touch "git-daemon-export-ok"
 echo "Mirror of $url" > description
-
-git update-server-info
-mv hooks/post-update.sample hooks/post-update
+rm -f hooks/*
+rm info/exclude 
