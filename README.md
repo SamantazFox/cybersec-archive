@@ -17,11 +17,11 @@ cloned repos. If you have any ideas on how to do so, feel free to make a PR :)**
 ## Exploits lists/databases/POCs
 
 * [x] [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb)
-* [ ] [sepehrdaddev/packetstorm-exploits](https://github.com/sepehrdaddev/packetstorm-exploits)
-* [ ] [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
-* [ ] [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)
-* [ ] [aquasecurity/vuln-list](https://github.com/aquasecurity/vuln-list)
-* [ ] [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [x] [sepehrdaddev/packetstorm-exploits](https://github.com/sepehrdaddev/packetstorm-exploits)
+* [x] [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
+* [x] [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)
+* [x] [aquasecurity/vuln-list](https://github.com/aquasecurity/vuln-list)
+* [x] [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ## Learning platforms/tools
 
@@ -41,7 +41,7 @@ kernel CTF:
 * [x] [MaherAzzouzi/LinuxKernelExploitation](https://github.com/MaherAzzouzi/LinuxKernelExploitation)
 
 other:
-* [ ] [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
+* [x] [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
 
 
 ## CVEs
@@ -55,10 +55,10 @@ other:
 
 ## Vulnerability Scanners
 
-* [ ] [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-* [ ] [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
-* [ ] [chaitin/xray](https://github.com/chaitin/xray)
-* [ ] [future-architect/vuls](https://github.com/future-architect/vuls)
+* [x] [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+* [x] [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+* [x] [chaitin/xray](https://github.com/chaitin/xray)
+* [x] [future-architect/vuls](https://github.com/future-architect/vuls)
 
 ## Knowledge Collection
 
